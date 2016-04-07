@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\bin\Debug\SchoolmanagementsystemApp.exe
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\bin\Debug\SchoolmanagementsystemApp.pdb
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\obj\x86\Debug\SchoolmanagementsystemApp.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\obj\x86\Debug\SchoolmanagementsystemApp.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\obj\x86\Debug\SchoolmanagementsystemApp.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\obj\x86\Debug\SchoolmanagementsystemApp.exe
+c:\users\dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\obj\x86\Debug\SchoolmanagementsystemApp.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\SchoolmanagementsystemApp\SchoolmanagementsystemApp\obj\x86\Debug\SchoolmanagementsystemApp.csprojResolveAssemblyReference.cache
